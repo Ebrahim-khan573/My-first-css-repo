@@ -1,0 +1,44 @@
+header{
+    background-image: url(./images/couple-family-traveling-together_1150-7772.avif);
+    padding: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: rgb(128, 5, 30);
+   -webkit-text-stroke: 0.3px rgb(255, 255, 255);
+   font-size: 30px;
+   border-radius: 20px;
+}
+.Travelindia{
+    text-align: right;
+}
+.Bangladesh{
+    display: flex;
+}
+.India{
+    display: flex;      
+}
+.Bhutan{
+    display: flex;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 1000;
+    font-size: larger;
+    
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+    padding: 30px;
+}
+.tobd{
+    border: 2px solid red;
+    margin-right: 30px;
+    box-shadow: 2px 2px black;
+}
+.alone{
+    width: 500px;
+    
+}
